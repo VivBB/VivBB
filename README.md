@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<!--### Hi there 👋-->
+# Viviana Barriga
+Soy una persona honesta, responsable, diligente, proactiva y dedicada. Acabo de terminar un diplomado en programación de aplicaciones móviles en la Universidad del Norte y deseo poner en práctica todos mis conocimientos.
 <!--
 **VivBB/VivBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
